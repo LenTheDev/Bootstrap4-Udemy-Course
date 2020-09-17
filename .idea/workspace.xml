@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b6e97cf-8dfd-438a-a19f-f72504de68e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_2_basic_typography.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_3_text_alignment_display.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_4_floats_position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_5_colors_background.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_6_spacing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_7_sizing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_8_breakpoints.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_10_media_object.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_11_jumbotron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_2_buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_3_navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_4_list_groups_badges.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_5_forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_6_input_groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_7_alerts_progress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_8_tables_pagination.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/3_9_cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/4_2_grid_system.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/4_3_grid_alignment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/4_4_flexbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/4_5_auto_margins_wrapping_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/5_2_carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/5_3_collapse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/5_4_tooltips.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/5_5_popovers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/5_6_modals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap_sandbox/5_7_scrollspy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox/2_3_text_alignment_display.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_3_text_alignment_display.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +40,8 @@
       <updated>1600218961928</updated>
       <workItem from="1600218964537" duration="2742000" />
       <workItem from="1600297762241" duration="320000" />
-      <workItem from="1600299590709" duration="2102000" />
+      <workItem from="1600299590709" duration="3878000" />
+      <workItem from="1600304025104" duration="2259000" />
     </task>
     <task id="LOCAL-00001" summary="Added Markdown">
       <created>1600219447494</created>
@@ -82,26 +57,41 @@
       <option name="project" value="LOCAL" />
       <updated>1600297807767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Included Bootstrap Sandbox Setup Files">
+      <created>1600301811836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600301811836</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Included Bootstrap Sandbox Setup Files">
+      <created>1600303357170</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600303357170</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Added Markdown" />
     <MESSAGE value="Included Bootstrap Sandbox Setup Files" />
     <option name="LAST_COMMIT_MESSAGE" value="Included Bootstrap Sandbox Setup Files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1305" y="50" key="CommitChangelistDialog2" timestamp="1600297807548">
+    <state x="1305" y="50" key="CommitChangelistDialog2" timestamp="1600303357001">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1305" y="50" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1600297807548" />
-    <state width="532" height="233" key="Git.Branch.Popup" timestamp="1600221060724">
+    <state x="1305" y="50" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1600303357001" />
+    <state width="532" height="233" key="Git.Branch.Popup" timestamp="1600301787313">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="532" height="233" key="Git.Branch.Popup/0.0.2560.1080@0.0.2560.1080" timestamp="1600221060724" />
+    <state width="532" height="233" key="Git.Branch.Popup/0.0.2560.1080@0.0.2560.1080" timestamp="1600301787313" />
     <state x="1577" y="448" width="513" height="201" key="Github.ShareDialog" timestamp="1600219240739">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -114,17 +104,17 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1508" y="282" key="IDE.errors.dialog/0.0.2560.1080@0.0.2560.1080" timestamp="1600301619115" />
-    <state x="820" y="171" key="SettingsEditor" timestamp="1600299758188">
+    <state x="820" y="171" key="SettingsEditor" timestamp="1600304124143">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="820" y="171" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1600299758188" />
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600297978515">
+    <state x="820" y="171" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1600304124143" />
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600301821624">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600297978515" />
-    <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600297883438">
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600301821624" />
+    <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600301908006">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600297883438" />
+    <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600301908006" />
   </component>
 </project>
