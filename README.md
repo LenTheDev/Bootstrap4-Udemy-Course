@@ -8,3 +8,13 @@ Comprehensive Udemy Modules Dedicated to Bootstrap 4 by Brady Traversy.
 3. What's new in Bootstrap 4 ? 
 4. Initial Environment Setup 
 5. Bootstrap Sandbox Setup 
+
+##Section: Typography & Utilities 
+6. Section introduction 
+7. Headings & Basic typography 
+8. Text Alignment & Display 
+9. Floats & fixed positions 
+10. Colors & background 
+11. Margin & padding spacing 
+12. Sizing & borders 
+13. CSS Breakpoints 
