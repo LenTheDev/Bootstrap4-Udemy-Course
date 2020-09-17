@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7b6e97cf-8dfd-438a-a19f-f72504de68e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox/2_3_text_alignment_display.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_3_text_alignment_display.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox/2_4_floats_position.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_4_floats_position.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
       <workItem from="1600218964537" duration="2742000" />
       <workItem from="1600297762241" duration="320000" />
       <workItem from="1600299590709" duration="3878000" />
-      <workItem from="1600304025104" duration="2259000" />
+      <workItem from="1600304025104" duration="5425000" />
     </task>
     <task id="LOCAL-00001" summary="Added Markdown">
       <created>1600219447494</created>
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600303357170</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Text Alignment &amp; Display">
+      <created>1600306429932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600306429932</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,13 +88,14 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Added Markdown" />
     <MESSAGE value="Included Bootstrap Sandbox Setup Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Included Bootstrap Sandbox Setup Files" />
+    <MESSAGE value="Text Alignment &amp; Display" />
+    <option name="LAST_COMMIT_MESSAGE" value="Text Alignment &amp; Display" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1305" y="50" key="CommitChangelistDialog2" timestamp="1600303357001">
+    <state x="1305" y="50" key="CommitChangelistDialog2" timestamp="1600306429737">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1305" y="50" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1600303357001" />
+    <state x="1305" y="50" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1600306429737" />
     <state width="532" height="233" key="Git.Branch.Popup" timestamp="1600301787313">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -108,10 +116,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="820" y="171" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1600304124143" />
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600301821624">
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600306432401">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600301821624" />
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600306432401" />
     <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600301908006">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
