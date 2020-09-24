@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b6e97cf-8dfd-438a-a19f-f72504de68e9" name="Default Changelist" comment="Spacing">
-      <change afterPath="$PROJECT_DIR$/css/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +53,7 @@
       <workItem from="1600320746594" duration="250000" />
       <workItem from="1600446997083" duration="977000" />
       <workItem from="1600521604730" duration="599000" />
-      <workItem from="1600959385774" duration="4138000" />
+      <workItem from="1600959385774" duration="4829000" />
     </task>
     <task id="LOCAL-00001" summary="Added Markdown">
       <created>1600219447494</created>
@@ -168,13 +173,17 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="820" y="171" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1600960305456" />
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600963170485">
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600963994760">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600963170485" />
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600963994760" />
     <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600315260018">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600315260018" />
+    <state x="1583" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1600963744880">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1583" y="239" width="672" height="678" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1600963744880" />
   </component>
 </project>
