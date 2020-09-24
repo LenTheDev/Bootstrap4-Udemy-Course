@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7b6e97cf-8dfd-438a-a19f-f72504de68e9" name="Default Changelist" comment="Spacing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox/2_7_sizing.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_7_sizing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox/2_8_breakpoints.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_8_breakpoints.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="markdown" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +46,7 @@
       <workItem from="1600320746594" duration="250000" />
       <workItem from="1600446997083" duration="977000" />
       <workItem from="1600521604730" duration="599000" />
-      <workItem from="1600959385774" duration="2679000" />
+      <workItem from="1600959385774" duration="3426000" />
     </task>
     <task id="LOCAL-00001" summary="Added Markdown">
       <created>1600219447494</created>
@@ -138,10 +138,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1305" y="50" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1600961212922" />
-    <state width="544" height="245" key="Git.Branch.Popup" timestamp="1600961238148">
+    <state width="546" height="247" key="Git.Branch.Popup" timestamp="1600962371943">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="544" height="245" key="Git.Branch.Popup/0.0.2560.1080@0.0.2560.1080" timestamp="1600961238148" />
+    <state width="546" height="247" key="Git.Branch.Popup/0.0.2560.1080@0.0.2560.1080" timestamp="1600962371943" />
     <state x="1012" y="408" key="Github.CreatePullRequestDialog" timestamp="1600315603580">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -162,10 +162,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="820" y="171" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1600960305456" />
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600961219470">
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600962324105">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600961219470" />
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600962324105" />
     <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600315260018">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
