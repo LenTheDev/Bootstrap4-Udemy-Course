@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b6e97cf-8dfd-438a-a19f-f72504de68e9" name="Default Changelist" comment="" />
+    <list default="true" id="7b6e97cf-8dfd-438a-a19f-f72504de68e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_sandbox/2_6_spacing.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_sandbox/2_6_spacing.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,11 @@
       <workItem from="1600218964537" duration="2742000" />
       <workItem from="1600297762241" duration="320000" />
       <workItem from="1600299590709" duration="3878000" />
-      <workItem from="1600304025104" duration="9875000" />
+      <workItem from="1600304025104" duration="10724000" />
+      <workItem from="1600320746594" duration="250000" />
+      <workItem from="1600446997083" duration="977000" />
+      <workItem from="1600521604730" duration="599000" />
+      <workItem from="1600959385774" duration="1644000" />
     </task>
     <task id="LOCAL-00001" summary="Added Markdown">
       <created>1600219447494</created>
@@ -96,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600314483774</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Colors &amp; Backgrounds">
+      <created>1600315181885</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600315181885</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Colors &amp; Backgrounds">
+      <created>1600315400004</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600315400004</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,14 +133,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Colors &amp; Backgrounds" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1305" y="50" key="CommitChangelistDialog2" timestamp="1600314483664">
+    <state x="1305" y="50" key="CommitChangelistDialog2" timestamp="1600315399886">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1305" y="50" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1600314483664" />
-    <state width="534" height="235" key="Git.Branch.Popup" timestamp="1600309911844">
+    <state x="1305" y="50" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1600315399886" />
+    <state width="542" height="243" key="Git.Branch.Popup" timestamp="1600960212695">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="534" height="235" key="Git.Branch.Popup/0.0.2560.1080@0.0.2560.1080" timestamp="1600309911844" />
+    <state width="542" height="243" key="Git.Branch.Popup/0.0.2560.1080@0.0.2560.1080" timestamp="1600960212695" />
+    <state x="1012" y="408" key="Github.CreatePullRequestDialog" timestamp="1600315603580">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1012" y="408" key="Github.CreatePullRequestDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1600315603580" />
     <state x="1577" y="448" width="513" height="201" key="Github.ShareDialog" timestamp="1600219240739">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -132,17 +157,17 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1508" y="282" key="IDE.errors.dialog/0.0.2560.1080@0.0.2560.1080" timestamp="1600309972961" />
-    <state x="820" y="171" key="SettingsEditor" timestamp="1600304124143">
+    <state x="820" y="171" key="SettingsEditor" timestamp="1600960305456">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="820" y="171" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1600304124143" />
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600314490813">
+    <state x="820" y="171" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1600960305456" />
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600315881501">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600314490813" />
-    <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600301908006">
+    <state x="1348" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600315881501" />
+    <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600315260018">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600301908006" />
+    <state x="1732" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600315260018" />
   </component>
 </project>
